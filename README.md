@@ -10,18 +10,13 @@ Stripe sandpit for development.<br>
 authentication zero gem.<br>
 Tailwind CSS for styling.<br>
 
-Render for hosting.<br>
-AWS for images.<br>
-Stripe for Payments.<br>
-Google Analytics for Site Performance.<br>
-
-[IONOS](https://ionos.co.uk/) <br>
-[DNS Exit](https://dnsexit.com/) <br>
-[GitHub](https://github.com/) <br>
-[Render](https://render.com/) <br>
-[AWS](https://aws.amazon.com/) <br>
-[Google Analytics](https://analytics.google.com/) <br>
-[Stripe](https://stripe.com/) <br>
-[ShipStation](https://shipengine.com/) <br>
-[MailerSend](https://mailersend.com/) <br>
-[NGROK](https://ngrok.com/) <br>
+[IONOS](https://ionos.co.uk/) For Domain Name registration.<br>
+[DNS Exit](https://dnsexit.com/) For DNS services.<br>
+[GitHub](https://github.com/) For the Source code and deployments.<br>
+[Render](https://render.com/) Render for hosting.<br>
+[AWS](https://aws.amazon.com/) For image storage.<br>
+[Google Analytics](https://analytics.google.com/) For monitoring Site Performance.<br>
+[Stripe](https://stripe.com/) For Payments.<br>
+[ShipStation](https://shipengine.com/) For shipping.<br>
+[MailerSend](https://mailersend.com/) For email and newsletters.<br>
+[NGROK](https://ngrok.com/) For making the development accessible.<br>
