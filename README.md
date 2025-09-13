@@ -15,13 +15,13 @@ AWS for images.<br>
 Stripe for Payments.<br>
 Google Analytics for Site Performance.<br>
 
-IONOS <br>
-DNS Exit <br>
-GitHub <br>
-Render <br>
-AWS <br>
-Google Analytics <br>
-Stripe <br>
-ShipStation <br>
-MailerSend <br>
-NGROK <br>
+[IONOS](https://ionos.co.uk/) <br>
+[DNS Exit](https://dnsexit.com/) <br>
+[GitHub](https://github.com/) <br>
+[Render](https://render.com/) <br>
+[AWS](https://aws.amazon.com/) <br>
+[Google Analytics](https://analytics.google.com/) <br>
+[Stripe](https://stripe.com/) <br>
+[ShipStation](https://shipengine.com/) <br>
+[MailerSend](https://mailersend.com/) <br>
+[NGROK](https://ngrok.com/) <br>
